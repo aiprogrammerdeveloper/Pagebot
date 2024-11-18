@@ -4,12 +4,13 @@
   "ADMINS": [
     ""
   ],
-  "BOTNAME": "BOTNAME",
-  "PREFIX": "/",
+  "BOTNAME": "𝙔𝙖𝙣𝙯𝙚𝙣",
+  "PREFIX": "=",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
-    "TITLE": "PAGEBOT",
+    "ADMIN": "Your 𝙔𝙖𝙣𝙯𝙚𝙣 bot",
+    "UID": "100090775159086",
+    "TITLE": "School purpose",
     "HTML": [
       "#CE2F16",
       "#fe8916",
